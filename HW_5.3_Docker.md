@@ -79,3 +79,8 @@ Gitlab сервер для реализации CI/CD процессов и пр
 Далее идет скриншот по выполнению заданий с созданием файлов:
 
 ![files](hw_5.3_files_docker_data.PNG)
+
+## Задача 4
+
+!ansible](hw_5.3_docker_build_ansible.PNG)
+
