@@ -70,3 +70,12 @@ Gitlab сервер для реализации CI/CD процессов и пр
 
 ## Задача 3
 
+```Console
+# docker pull centos
+# docker pull debian
+# docker run -dit --name CentOS1 -v /home/docker/data:/data centos:latest
+# docker run -rit --name Debian1 -v /home/docker/data:/data debian:latest
+```
+Далее идет скриншот по выполнению заданий с созданием файлов:
+
+![files](hw_5.3_files_docker_data.PNG)
