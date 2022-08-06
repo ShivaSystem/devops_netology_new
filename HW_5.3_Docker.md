@@ -84,3 +84,5 @@ Gitlab сервер для реализации CI/CD процессов и пр
 
 !ansible](hw_5.3_docker_build_ansible.PNG)
 
+### Ссылка на DockerHub
+https://hub.docker.com/r/shiva2913/ansible
