@@ -2,4 +2,4 @@
 
 ## Создать собственный образ операционной системы с помощью Packer.
 
-!(packer.png)[packer.PNG]
+![packer.png](packer.PNG)
